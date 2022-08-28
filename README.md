@@ -1,4 +1,4 @@
-# acerta_numero
+# Acerta_Numero
 Adivinha número que são gerados pelo sistema.
 
 # obs
